@@ -1,6 +1,6 @@
 # MENTOR AND STUDENT DATABASE
 
-Packages Installed:
+## Packages Installed:
 
 * Express Server(Node JS framework)
 
@@ -14,7 +14,7 @@ Packages Installed:
 
 * Mongoose(Database Connection)
 
-Features:
+## Features:
 
 * Create Mentor
 
@@ -31,7 +31,7 @@ Features:
 * View the previous mentor history for a particular student
 
 
-API endpoints:
+## API endpoints:
 
 * / - to view the home page
 
@@ -46,10 +46,14 @@ API endpoints:
 * /api/student-mentor/studentId - to view the previous mentor history for a particular student
 
 
-Conditions:
+## Conditions:
 
 * Users cannot create another mentor with same name
 
 * Users cannot create another student with same name
 
 * All other conditions are user friendly and easy to understand...
+
+## POSTMAN DOCUMENTATION:
+
+https://documenter.getpostman.com/view/34767736/2sA3JT4Jr2
