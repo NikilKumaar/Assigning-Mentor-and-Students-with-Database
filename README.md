@@ -62,4 +62,4 @@ https://documenter.getpostman.com/view/34767736/2sA3JT4Jr2
 
 https://assigning-mentor-and-students-with-h6zb.onrender.com
 
-* Use POSTMAN to make API requests
+* Use POSTMAN to make API requests as mentioned above as API ENDPOINTS.
